@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\19806\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\19806\\source\\repos\\clarky99\\mvc2022testing\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\19806\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\19806\\source\\repos\\clarky99\\mvc2022testing\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\19806\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\19806\\source\\repos\\clarky99\\mvc2022testing\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\19806\\source\\repos\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "C:\\Users\\19806\\source\\repos\\clarky99\\mvc2022testing\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\19806\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\19806\\source\\repos\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "C:\\Users\\19806\\source\\repos\\clarky99\\mvc2022testing\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\19806\\AppData\\Roaming\\NuGet\\NuGet.Config",
